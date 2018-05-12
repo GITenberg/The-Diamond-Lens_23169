@@ -1,0 +1,38 @@
+_repo: The-Diamond-Lens_23169
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: O'Brien, Fitz James
+    aliases:
+    - O'Brien, Fitz-James
+    - O'Brien, Michael Fitz James
+    - O'Brien, Fitzjames
+    birthdate: 1828
+    deathdate: 1862
+    gutenberg_agent_id: '5848'
+    url: http://www.gutenberg.org/2009/agents/5848
+    wikipedia: http://en.wikipedia.org/wiki/Fitz_James_O'Brien
+description: In this early science fiction tale, a man so obsessed with his scientific
+  research that he will do whatever is necessary to advance his work concocts an elaborate
+  scheme to obtain a state-of-the-art lens for his microscope. Once he has the purloined
+  lens in place, he finds something in a drop of water that changes his life forever
+  -- and prompts his descent into madness.
+gutenberg_bookshelf: Precursors of Science Fiction
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Microscopy -- Fiction'
+- !lcsh 'Murder -- Fiction'
+- !lcsh 'Science fiction'
+title: The Diamond Lens
+url: http://www.gutenberg.org/ebooks/23169
